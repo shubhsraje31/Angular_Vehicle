@@ -1,0 +1,24 @@
+{
+  "vehicles": [
+    {
+      "id": 1,
+      "vehicleName": "BMW",
+      "vehicleCost": 5000000
+    },
+    {
+      "vehicleName": "Honda",
+      "id": 2,
+      "vehicleCost": 1500000
+    },
+    {
+      "vehicleName": "Swift",
+      "id": 3,
+      "vehicleCost": 1000000
+    },
+    {
+      "vehicleName": "Audi",
+      "vehicleCost": "5500000",
+      "id": 4
+    }
+  ]
+}
